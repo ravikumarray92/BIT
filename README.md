@@ -1,0 +1,2 @@
+# BIT
+Welcome to BIT.
